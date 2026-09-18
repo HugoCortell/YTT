@@ -2,5 +2,4 @@
 # Yang's Transport Tycool
 You've got a head filled with steam, a heart made of coal, a gut of iron, and countless miles of rail coursing through your veins. - Railroad Tycoon II (modified quote)
 
-Yang's Transport Tycoon's source code is stored here.
-(Code not yet uploaded, it'll be uploaded here soon once the project becomes open source)
+Yang's Transport Tycoon's 1.0.0 source code is stored here.
